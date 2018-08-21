@@ -110,6 +110,16 @@
 			<name></name>
 			<description></description>
 		</soulgem>
+		<wowpows>
+			<s2>
+				<name></name>
+				<description></description>
+			</s2>
+			<s3>
+				<name></name>
+				<description></description>
+			</s3>
+		</wowpows>
 	</powers>
 	<quests>
 		<giants>
@@ -125,5 +135,11 @@
 		<quote></quote>
 		<quote></quote>
 		<quote></quote>
+		<statscreenquote></statscreenquote>
+		<statscreenquote></statscreenquote>
+		<hatchangequote></hatchangequote>
+		<hatchangequote></hatchangequote>
+		<nicknamechangequote></nicknamechangequote>
+		<nicknamechangequote></nicknamechangequote>
 	</quotes>
 </skylander>

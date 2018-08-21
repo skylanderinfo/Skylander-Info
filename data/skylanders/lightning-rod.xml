@@ -1,0 +1,106 @@
+<skylander>
+	<name>Lightning Rod</name>
+	<game>1</game>
+	<type>core</type>
+	<element>air</element>
+	<catchphrase>One Strike and You're Out!</catchphrase>
+	<species>Storm Giant</species>
+	<gender>m</gender>
+	<homeworld>The Cloud Kingdom</homeworld>
+	<voiceactors>
+		<voiceactor>Alex Ness</voiceactor>
+	</voiceactors>
+	<stats>
+		<health>
+			<1>290</1>
+		</health>
+		<speed>43</speed>
+		<armor>18</armor>
+		<criticalhit>30</criticalhit>
+		<elementalpower>46</elementalpower>
+	</stats>
+	<powers>
+		<abilities>
+			<1>
+				<name>Lightning Bolt</name>
+				<description>Throw a lightning bolt at enemies.</description>
+			</1>
+			<2>
+				<name>Grand Lightning Summoning</name>
+				<description>Bring lightning down from the sky and control where it moves.</description>
+			</2>
+		</abilities>
+		<basicupgrades>
+			<1>
+				<name>Lightning Lancer</name>
+				<description>Lightning Bolt does increased damage.</description>
+			</1>
+			<2>
+				<name>Thunderation</name>
+				<description>Grand Lightning attack lasts longer and does increased damage.</description>
+			</2>
+			<3>
+				<name>Zapper Field</name>
+				<description>Create a electrical storm that damages enemies.</description>
+			</3>
+			<4>
+				<name>Lightning Harpoon</name>
+				<description>Lighting Bolts stick into enemies and continue to damage them.</description>
+			</4>
+		</basicupgrades>
+		<paths>
+			<1>
+				<name>Typhoon Titan</name>
+				<description></description>
+				<upgrades>
+					<1>
+						<name>Cloud Zapper Satellite</name>
+						<description>A protective cloud follows you and zaps any enemies that come near.</description>
+					</1>
+					<2>
+						<name>Zappier Sats</name>
+						<description>Protective zapper clouds do increased damage. </description>
+					</2>
+					<3>
+						<name>Zapper Satellite Defense</name>
+						<description>A third protective cloud joins you. </description>
+					</3>
+				</upgrades>
+			</1>
+			<2>
+				<name>Lightning Lord</name>
+				<description></description>
+				<upgrades>
+					<1>
+						<name>Faster Caster</name>
+						<description>Summon the Grand Lightning attack much faster.</description>
+					</1>
+					<2>
+						<name>Electricity City</name>
+						<description>Grand Lightning attack has even more power and does more damage.</description>
+					</2>
+					<3>
+						<name>Lightning Avatar</name>
+						<description>Summon the most powerful Grand Lightning attack ever!</description>
+					</3>
+				</upgrades>
+			</2>
+		</paths>
+		<soulgem>
+			<name>Zapper Field Deluxe</name>
+			<description>Zapper Field and clouds do extra damage. </description>
+		</soulgem>
+	</powers>
+	<quests>
+		<giants>
+			<name>Current Event</name>
+			<description>Defeat 10 enemies with one Grand Lightning strike.</description>
+		</giants>
+		<swapforce>
+			<name>Current Event</name>
+			<description>Defeat 50 Golems.</description>
+		</swapforce>
+	</quests>
+	<quotes>
+	</quotes>
+</skylander>

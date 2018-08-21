@@ -90,6 +90,12 @@
 			<name>Zapper Field Deluxe</name>
 			<description>Zapper Field and clouds do extra damage. </description>
 		</soulgem>
+		<wowpows>
+			<s2>
+				<name>Big Bolt</name>
+				<description>Hold Attack 1 to throw the biggest bolt of lightning known to man!</description>
+			</s2>
+		</wowpows>
 	</powers>
 	<quests>
 		<giants>
@@ -102,5 +108,21 @@
 		</swapforce>
 	</quests>
 	<quotes>
+		<quote>One Strike and You're Out!</quote>
+		<quote>A jolt from the heavens!</quote>
+		<quote>Todays forecast: Me!</quote>
+		<quote>Lightning shall reign!</quote>
+		<quote>A shower of power!</quote>
+		<quote>Feel my thunder!</quote>
+		<quote>This bolt's for you!</quote>
+		<quote>Bring forth the thunder!</quote>
+		<quote>You cannot hold back nature!</quote>
+		<quote>Storm coming through!</quote>
+		<statscreenquote>These stats are shocking!</statscreenquote>
+		<statscreenquote>Those numbers are electrifying!</statscreenquote>
+		<hatchangequote>This mustn't mess with my hair!</hatchangequote>
+		<hatchangequote>A crown fit for a king!</hatchangequote>
+		<nicknamechangequote>So be it!</nicknamechangequote>
+		<nicknamechangequote>I am known by many names.</nicknamechangequote>
 	</quotes>
 </skylander>
